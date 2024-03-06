@@ -1,0 +1,14 @@
+#ifndef CERT_H
+
+#define CERT_H
+
+const char * rootCACertificate = \
+  "-----BEGIN CERTIFICATE-----\n"
+"b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACCD66JPFtcagOf/+sWNKeQnKsh7yikeZi3zS2CnCQIFaAAAAJhMh7PzTIez
+8wAAAAtzc2gtZWQyNTUxOQAAACCD66JPFtcagOf/+sWNKeQnKsh7yikeZi3zS2CnCQIFaA
+AAAEAevv1zhL/RRGqgNHv1ltfiYjanyH5ZPIHutYcslUeSwIProk8W1xqA5//6xY0p5Ccq
+yHvKKR5mLfNLYKcJAgVoAAAAEWF2cjAwMDVAZ21haWwuY29tAQIDBA=="
+"-----END CERTIFICATE-----\n";
+
+#endif
